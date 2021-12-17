@@ -21,5 +21,5 @@ $ ./zippy.sh https://www1337.zippyshare.com/xxxx
     
 ## Screenshots
 
-![App Screenshot](https://k.top4top.io/p_2177ayyd40.png)
+![App Screenshot](https://github.com/itsmebinyourbae/byZyirs/blob/main/20211212_040048.png)
 
